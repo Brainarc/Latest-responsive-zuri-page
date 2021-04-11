@@ -1,4 +1,4 @@
-20566
+20575
 50C:\Users\DELL\zuri-responsive\node_modules\astring132626309212017217 1
 58C:\Users\DELL\zuri-responsive\node_modules\ws\package.json132626308672750172 0
 88C:\Users\DELL\zuri-responsive\node_modules\stylehacks\dist\plugins\trailingSlashComma.js121436361000000000 0
@@ -7,7 +7,7 @@
 71C:\Users\DELL\zuri-responsive\node_modules\snapdragon-node\package.json132626308812851166 0
 81C:\Users\DELL\zuri-responsive\node_modules\purgecss\node_modules\has-flag\license131408182550000000 0
 63C:\Users\DELL\zuri-responsive\node_modules\htmlnano\LICENSE.txt121436361000000000 0
-34C:\Users\DELL\zuri-responsive\dist132626247527009153 1
+34C:\Users\DELL\zuri-responsive\dist132626334048107430 1
 76C:\Users\DELL\zuri-responsive\node_modules\caniuse-lite\data\features\ime.js121436361000000000 0
 70C:\Users\DELL\zuri-responsive\node_modules\es-abstract\2018\ToInt16.js121436361000000000 0
 40C:\Users\DELL\zuri-responsive\.gitignore132626286550609111 0
@@ -168,7 +168,7 @@
 67C:\Users\DELL\zuri-responsive\node_modules\abortcontroller-polyfill132626309218246834 1
 91C:\Users\DELL\zuri-responsive\node_modules\postcss-merge-longhand\node_modules\postcss\docs132626307911955193 1
 58C:\Users\DELL\zuri-responsive\node_modules\uuid\lib\rng.js121436361000000000 0
-42C:\Users\DELL\zuri-responsive\package.json132626326080845337 0
+42C:\Users\DELL\zuri-responsive\package.json132626333660130707 0
 99C:\Users\DELL\zuri-responsive\node_modules\regenerate-unicode-properties\Script_Extensions\Takri.js121436361000000000 0
 104C:\Users\DELL\zuri-responsive\node_modules\postcss-normalize-url\node_modules\postcss\lib\lazy-result.js121436361000000000 0
 78C:\Users\DELL\zuri-responsive\node_modules\@parcel\transformer-js\package.json132626308662240208 0
@@ -7643,6 +7643,7 @@
 109C:\Users\DELL\zuri-responsive\node_modules\postcss-normalize-unicode\node_modules\postcss\docs\source-maps.md121436361000000000 0
 78C:\Users\DELL\zuri-responsive\node_modules\posthtml-parser\coverage\index.html121436361000000000 0
 90C:\Users\DELL\zuri-responsive\node_modules\node-addon-api\doc\typed_threadsafe_function.md121436361000000000 0
+53C:\Users\DELL\zuri-responsive\dist\index.15ff98bd.css132626334047937434 0
 79C:\Users\DELL\zuri-responsive\node_modules\posthtml-parser\coverage\lcov-report132626308157600466 1
 79C:\Users\DELL\zuri-responsive\node_modules\core-js\stable\array\virtual\fill.js121436361000000000 0
 74C:\Users\DELL\zuri-responsive\node_modules\core-js\internals\same-value.js121436361000000000 0
@@ -13125,6 +13126,7 @@
 99C:\Users\DELL\zuri-responsive\node_modules\jsdom\lib\jsdom\living\nodes\HTMLFieldSetElement-impl.js121436361000000000 0
 69C:\Users\DELL\zuri-responsive\node_modules\is-arguments\test\index.js121436361000000000 0
 94C:\Users\DELL\zuri-responsive\node_modules\jsdom\lib\jsdom\living\events\KeyboardEvent-impl.js121436361000000000 0
+110C:\Users\DELL\zuri-responsive\dist\WhatsApp Image 2021-04-11 at 2.31.20 PM (2).791a8bdc.791a8bdc.3b7c96e9.jpeg132626334046547518 0
 95C:\Users\DELL\zuri-responsive\node_modules\jsdom\lib\jsdom\living\nodes\HTMLFontElement-impl.js121436361000000000 0
 134C:\Users\DELL\zuri-responsive\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\nested\index.js121436361000000000 0
 96C:\Users\DELL\zuri-responsive\node_modules\jsdom\lib\jsdom\living\nodes\HTMLFrameElement-impl.js121436361000000000 0
@@ -13182,6 +13184,7 @@
 100C:\Users\DELL\zuri-responsive\node_modules\jsdom\lib\jsdom\living\nodes\NonElementParentNode-impl.js121436361000000000 0
 83C:\Users\DELL\zuri-responsive\node_modules\base\node_modules\is-accessor-descriptor132626309094214277 1
 90C:\Users\DELL\zuri-responsive\node_modules\jsdom\lib\jsdom\living\nodes\ParentNode-impl.js121436361000000000 0
+56C:\Users\DELL\zuri-responsive\dist\index.071c1322.js.map132626334048087437 0
 101C:\Users\DELL\zuri-responsive\node_modules\jsdom\lib\jsdom\living\nodes\ProcessingInstruction-impl.js121436361000000000 0
 83C:\Users\DELL\zuri-responsive\node_modules\core-js\modules\esnext.set.difference.js121436361000000000 0
 90C:\Users\DELL\zuri-responsive\node_modules\jsdom\lib\jsdom\living\nodes\ShadowRoot-impl.js121436361000000000 0
@@ -14411,6 +14414,7 @@
 77C:\Users\DELL\zuri-responsive\node_modules\core-js\stable\typed-array\from.js121436361000000000 0
 86C:\Users\DELL\zuri-responsive\node_modules\core-js\features\number\max-safe-integer.js121436361000000000 0
 76C:\Users\DELL\zuri-responsive\node_modules\highlight.js\lib\languages\cpp.js121436361000000000 0
+106C:\Users\DELL\zuri-responsive\dist\WhatsApp Image 2021-04-11 at 2.31.19 PM.a9695acb.a9695acb.51b33f34.jpeg132626334046557524 0
 78C:\Users\DELL\zuri-responsive\node_modules\highlight.js\lib\languages\crmsh.js121436361000000000 0
 79C:\Users\DELL\zuri-responsive\node_modules\highlight.js\lib\languages\csharp.js121436361000000000 0
 74C:\Users\DELL\zuri-responsive\node_modules\caniuse-lite\data\regions\CI.js121436361000000000 0
@@ -20560,7 +20564,12 @@
 53C:\Users\DELL\zuri-responsive\node_modules\.bin\which132626309239245584 0
 57C:\Users\DELL\zuri-responsive\node_modules\.bin\which.cmd132626309239245584 0
 82C:\Users\DELL\zuri-responsive\img\WhatsApp Image 2021-04-11 at 2.31.20 PM (1).jpeg132626178117619543 0
+52C:\Users\DELL\zuri-responsive\dist\index.071c1322.js132626334047937434 0
+57C:\Users\DELL\zuri-responsive\dist\index.15ff98bd.css.map132626334048067459 0
+45C:\Users\DELL\zuri-responsive\dist\index.html132626334047927437 0
 88C:\Users\DELL\zuri-responsive\dist\WhatsApp Image 2021-04-11 at 2.31.19 PM.23a433fe.jpeg132626247525599250 0
+110C:\Users\DELL\zuri-responsive\dist\WhatsApp Image 2021-04-11 at 2.31.20 PM (1).bd49e17e.bd49e17e.f134e48b.jpeg132626334046537518 0
+106C:\Users\DELL\zuri-responsive\dist\WhatsApp Image 2021-04-11 at 2.31.20 PM.be9520ad.be9520ad.24679926.jpeg132626334046997501 0
 51C:\Users\DELL\zuri-responsive\dist\zuri.da3b23e2.js132626247526879191 0
 55C:\Users\DELL\zuri-responsive\dist\zuri.da3b23e2.js.map132626247526989157 0
 52C:\Users\DELL\zuri-responsive\dist\zuri.fc33897e.css132626247526879191 0
