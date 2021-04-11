@@ -1,24 +1,24 @@
 {
   "name": "zuri-responsive",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
+  "description": "my-responsive-zuri",
+  "main": "zuri.js",
+  "dependencies": {
+    "parcel": "^2.0.0-beta.2"
+  },
+  "devDependencies": {},
   "scripts": {
-    "start": "parcel zuri.html",
-    "build": "parcel build zuri.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Brainarc/Zuri-responsive-page.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ella",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Brainarc/Zuri-responsive-page/issues"
   },
-  "homepage": "https://github.com/Brainarc/Zuri-responsive-page#readme",
-  "devDependencies": {
-    "parcel": "^2.0.0-beta.2"
-  }
+  "homepage": "https://github.com/Brainarc/Zuri-responsive-page#readme"
 }
